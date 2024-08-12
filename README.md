@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Zaid Khan</h1>
 <h3 align="center">Ethical Hacker</h3>
-<img align="right" alt="coding" width="400" src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/LORD-HYDRAA](https://github.com/LORD-HYDRAA)
 
