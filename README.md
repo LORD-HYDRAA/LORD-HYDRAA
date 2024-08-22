@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,py,c,bash,linux,raspberrypi,flutter,dart,java,arduino,cpp,cmake,arch,androidstudio,debian,kali,ubuntu,mint,mysql,redhat,vscode,visualstudio" alt="Skills">
+        <img src="https://skillicons.dev/icons?i=js,html,css,py,c,bash,github,linux,raspberrypi,flutter,dart,java,arduino,cpp,cmake,arch,androidstudio,debian,kali,ubuntu,mint,mysql,redhat,vscode,visualstudio" alt="Skills">
     </a>
 </p>
 
