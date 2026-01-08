@@ -20,7 +20,7 @@
 
 <h2 align="center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> 
-    <em>GitHub Stats:</em>
+    <!-- <em>GitHub Stats:</em> -->
 </h2>
 
 <p align="center">
